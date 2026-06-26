@@ -1,0 +1,2 @@
+let WebsiteName = document.getElementById("webName");
+WebsiteName.innerText="1. Google.com\n2. YouTube.com\n3. Facebook.com\n4. Twitter.com\n5. Instagram.com\n6. LinkedIn.com\n7. Reddit.com\n8. Pinterest.com\n9. Tumblr.com\n10. Quora.com";
